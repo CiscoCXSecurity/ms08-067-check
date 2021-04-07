@@ -10,7 +10,7 @@ Author: Bernardo Damele A. G. <bernardo.damele@gmail.com>
 
 License: Modified Apache 1.1
 
-Version: 0.5
+Version: 0.6
 
 References:
 * BID: 31874
